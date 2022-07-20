@@ -63,9 +63,12 @@ F12 打开开发者工具，发现存在无限debugger
 
 好家伙， 可读性好了很多
 
-然后我们利用搜索引擎搜索一下 "在线echarts", 我使用的是这个网站 aHR0cHM6Ly93d3cucnVub29iLmNvbS90cnkvdHJ5LnBocD9maWxlbmFtZT10cnllY2hhcnRzX2ludHJv
+然后我们写个echarts hello world
+利用搜索引擎搜索一下 "在线echarts", 我使用的是这个网站 aHR0cHM6Ly93d3cucnVub29iLmNvbS90cnkvdHJ5LnBocD9maWxlbmFtZT10cnllY2hhcnRzX2ludHJv
 
 不看不知道，一看吓一跳啊
+
+<br>
 
 ![](https://img-blog.csdnimg.cn/52c2d67b50174b478eed507df954dee3.png)
 
